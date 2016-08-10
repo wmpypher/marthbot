@@ -17,3 +17,6 @@ The actual combat system
  - Knight
  - Lord? [maybe not]
  - archer bc ranged is good but maybe not bc range
+#stuff i actually need to learn
+ - how to use the api
+ - etc
