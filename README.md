@@ -8,7 +8,7 @@ The actual combat system
  - Classes
  - stats [important]
  - hp [though this Could be considered a stat]
- - Weapons -- IMPORTANT
+ - Damage/Accuracy/Crits -- IMPORTANT
 
 #Classes
  - Basic ones at first, for example:
